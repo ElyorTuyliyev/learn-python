@@ -1,5 +1,7 @@
 is_pass = False
 is_pass = True
 
+value = None
 
-print(is_pass)
+
+print(value)
